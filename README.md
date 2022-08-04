@@ -16,7 +16,7 @@ The company's plan to mentor upcomming employees should be successful as there a
 There are 1,549 employees who currently qualify for the mentorship program.
 Additionally, there are a large amount of senior, leadership, and management positions that will need to be filled. Per the database below, we can see that there are 13651	Senior Engineers, 12872	Senior Staff Members, 1609	Technique Leaders, and 2	Manager positions, for a total of 28,134 of leadership positions that need to be filled.
 
-
+![Screenshot 2022-08-03 170027](https://user-images.githubusercontent.com/107223650/182740072-160710e6-7bc3-401b-babc-633935c518e8.png)
 
 ## Recommendations
 ### Ideas for Improvement Based on Results
