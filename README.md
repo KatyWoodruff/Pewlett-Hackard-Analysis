@@ -4,15 +4,22 @@ With a large number of employees from Pewlett and Hackard retiring soon, I have 
 
 ## Results
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-There is a bulleted list with four major points from the two analysis deliverables. 
-
+* 65,427 employees will be retiring soon
+* 1549 employees qualify for the mentorship program
+* 28,134 of the retiring employees are currently in leadership roles
+* The ratio of retirees to mentorship qualifiers is 42 to 1
 
 ### Summary of Results
 
- Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Pewlett and Hackared will need to hire a large volume of new employees as the number of soon to be retiring employees is 65,427. This will significantly impact the company.
+The company's plan to mentor upcomming employees should be successful as there are 42 retiring employees per employees who qualify for mentorship.
+There are 1,549 employees who currently qualify for the mentorship program.
+Additionally, there are a large amount of senior, leadership, and management positions that will need to be filled. Per the database below, we can see that there are 13651	Senior Engineers, 12872	Senior Staff Members, 1609	Technique Leaders, and 2	Manager positions, for a total of 28,134 of leadership positions that need to be filled.
 
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight
+
+## Recommendations
+### Ideas for Improvement Based on Results
+
+There is a large difference in the ammount of employees eligible for mentorship and employees preparing for retirement. I would advise that the pool for eligible employees be expanded to increase the reach of the program, as well as implementing a new hiring program to ensure the company does not suffer as employees hit retirement age.
+
